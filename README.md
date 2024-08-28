@@ -59,7 +59,7 @@ The top N most similar movies are recommended to the user.
 similarity.pkl
 movue_list.pkl 
 
-This two are large file so download manully after creating the model from
+This two are large file so download manully after creating the model from Movie_Recommendation_System.ipynb
 
 
 
