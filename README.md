@@ -6,6 +6,7 @@
 ### Dataset
 ### Installation
 ### How it works
+### Point to note
 
 ## Overview
 This repository contains a Movie Recommendation System built using Content-Based Filtering. The system recommends movies to users based on the similarity of movie features, such as genres, directors, and plot descriptions. Content-based filtering focuses on suggesting items that are similar to those the user has liked in the past.
@@ -53,6 +54,12 @@ Generating Recommendations:
 
 When a user inputs a movie title, the system retrieves the corresponding feature vector and computes the similarity with all other movies in the dataset.
 The top N most similar movies are recommended to the user.
+
+## Point to note
+similarity.pkl
+movue_list.pkl 
+
+This two are large file so download manully after creating the model from
 
 
 
